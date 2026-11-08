@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "SYSTEM · ผู้เล่น อนาลิธ",
+  "short_name": "SYSTEM",
+  "description": "ระบบภารกิจ เลเวล และค่าสถานะส่วนตัว",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050a14",
+  "theme_color": "#050a14",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
